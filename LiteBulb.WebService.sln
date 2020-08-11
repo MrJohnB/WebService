@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiteBulb.WebService.RestApi", "src\LiteBulb.WebService.RestApi\LiteBulb.WebService.RestApi.csproj", "{8B2D0B46-40C8-41D3-9643-E27C5C5D3103}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiteBulb.WebService.Database", "src\LiteBulb.WebService.Database\LiteBulb.WebService.Database.csproj", "{E2E55C2C-0EE8-4594-BA8F-571B28022F26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiteBulb.SimpleDatabase", "src\LiteBulb.SimpleDatabase\LiteBulb.SimpleDatabase.csproj", "{421F66D7-1D1A-4DFA-B814-CEF36410DAA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiteBulb.WebService.Models", "src\LiteBulb.WebService.Models\LiteBulb.WebService.Models.csproj", "{E67521B3-877A-4664-B4CA-21D9FF515D92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiteBulb.WebService.Configurations", "src\LiteBulb.WebService.Configurations\LiteBulb.WebService.Configurations.csproj", "{E6C077C1-E42C-48D0-9E83-ED2390A45AF5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B2D0B46-40C8-41D3-9643-E27C5C5D3103}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B2D0B46-40C8-41D3-9643-E27C5C5D3103}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B2D0B46-40C8-41D3-9643-E27C5C5D3103}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B2D0B46-40C8-41D3-9643-E27C5C5D3103}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2E55C2C-0EE8-4594-BA8F-571B28022F26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2E55C2C-0EE8-4594-BA8F-571B28022F26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2E55C2C-0EE8-4594-BA8F-571B28022F26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2E55C2C-0EE8-4594-BA8F-571B28022F26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{421F66D7-1D1A-4DFA-B814-CEF36410DAA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{421F66D7-1D1A-4DFA-B814-CEF36410DAA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{421F66D7-1D1A-4DFA-B814-CEF36410DAA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{421F66D7-1D1A-4DFA-B814-CEF36410DAA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E67521B3-877A-4664-B4CA-21D9FF515D92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E67521B3-877A-4664-B4CA-21D9FF515D92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E67521B3-877A-4664-B4CA-21D9FF515D92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E67521B3-877A-4664-B4CA-21D9FF515D92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6C077C1-E42C-48D0-9E83-ED2390A45AF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6C077C1-E42C-48D0-9E83-ED2390A45AF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6C077C1-E42C-48D0-9E83-ED2390A45AF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6C077C1-E42C-48D0-9E83-ED2390A45AF5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03BF4FB1-CDEC-4DF4-B143-8277C6FD14B0}
+	EndGlobalSection
+EndGlobal

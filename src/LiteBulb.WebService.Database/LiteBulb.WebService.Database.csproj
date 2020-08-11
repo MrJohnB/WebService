@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\LiteBulb.SimpleDatabase\LiteBulb.SimpleDatabase.csproj" />
+    <ProjectReference Include="..\LiteBulb.WebService.Models\LiteBulb.WebService.Models.csproj" />
+  </ItemGroup>
+
+</Project>
